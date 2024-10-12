@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 4
   m_EditorClassIdentifier: 
   question: What is the hottest planet in the solar system?
+  answers:
+  - Jupiter
+  - Venus
+  - Mecury
+  - Mars
+  correctAnswerIndex: 1

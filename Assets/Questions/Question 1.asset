@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 1
   m_EditorClassIdentifier: 
   question: What's the 6th planet from the sun?
+  answers:
+  - Mars
+  - Jupiter
+  - Saturn
+  - Uranus
+  correctAnswerIndex: 2
